@@ -1,11 +1,11 @@
 oi gente, eu sou a liva          
 ![McHarielGIF](https://github.com/user-attachments/assets/3f63924a-0496-4864-bc6f-3c9776fd9381)
 
-<!--
+<!--https://scratch.mit.edu/projects/1003033905
 **tanami7/tanami7** ishttps://github.com/tanami7/tanami7/issues a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://editor.p5js.org/LDT111/full/B5aL4Nciu
 Here are some ideas to get you started:
-
+https://editor.p5js.org/LDT111/full/wearRfdpX
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
